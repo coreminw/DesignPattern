@@ -1,0 +1,16 @@
+
+7	java:S131
+""Add a default case to this switch.(¨Ò
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Æä³øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æä³øÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(µ´ä•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ´ä•
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(—Ö•Äúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—Ö•Äúÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÑÄ©ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÄ©ú
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(«ŒÜóúÿÿÿÿ

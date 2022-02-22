@@ -1,0 +1,30 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù›óÅüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾§†¬
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Í†ÚÂ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¤ÚËŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ªà¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í†ÚÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÚËŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÀ±®þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í†ÚÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÚËŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¾æÚúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¾§†¬
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¤Ôåÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¿çò¤üÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(–ªà¹
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¤Ôåÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¿çò¤üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(–ªà¹
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(¤Ôåÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¿çò¤üÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÏŽ§‚
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¤Ôåÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¿çò¤üÿÿÿÿ
+_
+java:S1192
+"IDefine a constant instead of duplicating this literal "Weight: " 7 times.(¤ÚËŒ
+~
+java:S1192"hDefine a constant instead of duplicating this literal "ì–‘íŒŒ í† í•‘ ì¶”ê°€. ì¤‘ëŸ‰: 30 ì¶”ê°€" 3 times.(–ªà¹

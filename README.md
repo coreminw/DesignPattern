@@ -1,2 +1,2 @@
 # DesignPattern
-디자인패턴
+디자인 
